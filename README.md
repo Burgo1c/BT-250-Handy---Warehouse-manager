@@ -1,6 +1,8 @@
 # KuniMoto_Handy
 Handy Terminal api web system And Signage display.
 
+Japanese Version
+
 Keyence BT-250 Handy Terminal.
   >Windows embedded compact 7 OS
 
