@@ -1,4 +1,4 @@
-# KuniMoto_Handy
+# BT-250 Handy - Warehouse manager
 Handy Terminal api web system And Signage display.
 
 Japanese Version
