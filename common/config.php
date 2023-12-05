@@ -21,12 +21,12 @@ define("PRODUCT_IMPORT_PASS", "password");
 /**
  * SIGNAGE IP
  */
-define("ST_1311_IP", "192.168.5.101");
-define("ST_1312_IP", "192.168.5.102");
-define("ST_1321_IP", "192.168.5.103");
-define("ST_1322_IP", "192.168.5.104");
-define("ST_1331_IP", "192.168.5.105");
-define("ST_2311_IP", "192.168.5.90");
+define("ST_1311_IP", "000.000.000.000");
+define("ST_1312_IP", "000.000.000.000");
+define("ST_1321_IP", "000.000.000.000");
+define("ST_1322_IP", "000.000.000.000");
+define("ST_1331_IP", "000.000.000.000");
+define("ST_2311_IP", "000.000.000.000");
 
 /**
  * ENDJ02 AND wait_msg FILE PATH
